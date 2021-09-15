@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jeetshah0303
 - 👀 I’m interested in Machine Learning and Artificial intelligence
 - 🌱 I’m currently learning Computer Science at NMIMS university
-- 💞️ I’m looking to collaborate on cool and dun projects that will change the world xD
+- 💞️ I’m looking to collaborate on cool and fun projects that will change the world xD
 - 📫 @ me on twitter @lionelmessijeet or email me at jeet.shah90@nmims.edu.in
 
 <!---
