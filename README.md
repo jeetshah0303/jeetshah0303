@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jeetshah0303
-- 👀 I’m interested in Machine Learning and Artificial intelligence
+- 👀 Currently working as a data engineer in the banking industry
 - 🌱 Graduated in Computer Science from NMIMS university, Mumbai
 - 💞️ I’m looking to collaborate on cool and fun projects that will change the world xD
 - 📫 @ me on twitter @lionelmessijeet or email me at jeet.shah90@nmims.edu.in
